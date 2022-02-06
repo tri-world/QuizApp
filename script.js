@@ -67,6 +67,8 @@ function submitAns(){
     six.checked=false;
     java.checked=false; 
     cpp.checked=false;
+    python.checked=false;
+    go.checked=false;
  
  if(result==4 || result==5){
     res.textContent="total score: "+result;
